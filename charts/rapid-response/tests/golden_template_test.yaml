@@ -5,8 +5,8 @@ templates:
   - secrets.yaml
 tests:
   - it: check normal install testcase
-    set: 
-      sysdig: 
+    set:
+      sysdig:
         accessKey: AAAAAAAA-BBBB-CCCC-DDDD-EEEEEEEEEEEE
       clusterName: test-k8s
       rapidResponse:
