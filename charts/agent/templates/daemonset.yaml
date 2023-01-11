@@ -315,8 +315,10 @@ spec:
                 apiVersion: v1
                 fieldPath: metadata.name
               path: name
+  {{/*
   updateStrategy:
     type: {{ .Values.daemonset.updateStrategy.type }}
     rollingUpdate:
       maxUnavailable: {{include "agent.parallelStarts" .}}
+  */}}
 {{- end }}
