@@ -7,5 +7,3 @@ Links for your deployment:
   * Sysdig Secure: https://{{ include "secureUrl" . }}/#/data-sources/agents
 
 No further action should be required.
-
-update

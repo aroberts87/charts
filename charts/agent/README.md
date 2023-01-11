@@ -12,7 +12,7 @@ and [Sysdig Secure](https://sysdig.com/product/secure/) to all nodes in your clu
 
 ## Prerequisites
 
-- Kubernetes 1.9+ with Beta APIs enableddd
+- Kubernetes 1.9+ with Beta APIs enabled
 - Helm v3+
 
 ## Migrating from sysdig < v2.0.0

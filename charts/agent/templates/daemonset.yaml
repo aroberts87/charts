@@ -312,7 +312,7 @@ spec:
                 fieldPath: metadata.namespace
               path: namespace
             - fieldRef:
-                apiVersion: v1
+                apiVersion: v111
                 fieldPath: metadata.name
               path: name
   updateStrategy:
