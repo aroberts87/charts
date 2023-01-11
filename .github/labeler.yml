@@ -1,7 +1,7 @@
 no-tests:
   - any:
     - 'charts/*/templates/**/*'
-    - '!charts/*/templates/**/*.md'
-    - '!charts/*/templates/**/*.txt'
+    - '!charts/**/*.md'
+    - '!charts/**/*.txt'
     all:
     - '!charts/**/tests/*.yaml'
