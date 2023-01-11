@@ -10,7 +10,7 @@ tests:
           path: data.dragent\.yaml
           pattern: .*collector\.sysdigcloud\.com.*
 
-  - it: Checking region 'us2'1
+  - it: Checking region 'us2'
     set:
       global: 
         sysdig:
