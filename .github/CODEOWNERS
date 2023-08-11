@@ -1,9 +1,0 @@
-# request review from agent team members for changes to sysdig chart
-/charts/sysdig/         @sysdiglabs/team-tools-agent
-/charts/agent/          @sysdiglabs/team-tools-agent
-/charts/sysdig-deploy/  @sysdiglabs/team-tools-agent
-
-/charts/admission-controller @sysdiglabs/cloud-native
-/charts/cloud-connector @sysdiglabs/cloud-native
-/charts/cloud-scanning @sysdiglabs/cloud-native
-/charts/registry-scanner @sysdiglabs/cloud-native @sysdiglabs/vm-integrations
